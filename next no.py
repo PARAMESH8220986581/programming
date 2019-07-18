@@ -1,2 +1,3 @@
 k=int(input())
-print(k+1)
+a=1
+print(k+a)
