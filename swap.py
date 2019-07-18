@@ -1,2 +1,2 @@
-x,y=input().split()
+x,y=int(input().split())
 print(y,x)
