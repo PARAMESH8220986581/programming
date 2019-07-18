@@ -1,2 +1,5 @@
 x,y=map(int,input().split())
-print(y,x)
+temp=x
+x=y
+y=temp
+print(x,y)
