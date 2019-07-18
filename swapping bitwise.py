@@ -1,4 +1,6 @@
-x,y=map(int,input().split())
+x,y=input().split()
+x=int(x)
+y=int(y)
 x=x^y
 y=x^y
 x=x^y
