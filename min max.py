@@ -1,4 +1,4 @@
 a=int(input())
 k=list(map(int,input().split()))
-if (k==a):
+if (len(k)==a):
   print(min(k),max(k))
