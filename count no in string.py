@@ -6,6 +6,6 @@ for i in a:
      else:
           pass
 if s>=1:
-     print('yes')
+     print('Yes')
 else:
-     print("no")
+     print("No")
