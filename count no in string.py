@@ -1,11 +1,11 @@
-a=input()
+a=str(input())
 s=0
 for i in a:
-     if a.isdigit():
+     if i.isdigit():
           s+=1
+     else:
+          pass
 if s>=1:
      print('yes')
 else:
      print("no")
-
-
